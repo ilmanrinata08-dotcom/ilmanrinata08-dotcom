@@ -17,3 +17,10 @@ Halo! Saya **C'oodiee**, siswa kelas 12 SMK jurusan **Teknik Komputer dan Jaring
 ![Statistik Ilman](https://github-readme-stats.vercel.app/api?username=ilmanrinata08-dotcom&show_icons=true&theme=radical)
 
 ![Bahasa Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmanrinata08-dotcom&layout=compact&theme=radical)
+---
+
+### 📂 Lihat Koleksi Kodingan Saya:
+👉 **[Masuk ke Interior Rumah Koding (Repository Belajar)](https://github.com/ilmanrinata08-dotcom/belajar)**
+*(Di sini tempat saya menyimpan proyek Python, HTML, CSS, dan tugas-tugas TKJ!)*
+
+---
