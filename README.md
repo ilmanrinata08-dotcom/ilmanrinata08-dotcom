@@ -1,6 +1,7 @@
 # 🚀 My Python & Networking Journey
 
-![Banner](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Ilman%20TKJ%20Networking&fontSize=50)
+![Banner Utama](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Ilman%20TKJ%20Networking&fontSize=50)
+
 
 ### 👨‍💻 About Me:
 Halo! Saya **C'oodiee**, siswa kelas 12 SMK jurusan **Teknik Komputer dan Jaringan (TKJ)**. Saya belajar pemrograman dan jaringan langsung dari Android menggunakan **Termux**.
