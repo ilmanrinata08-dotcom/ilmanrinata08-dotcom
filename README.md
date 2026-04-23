@@ -18,7 +18,16 @@ Halo! Saya **C'oodiee**, siswa kelas 12 SMK jurusan **Teknik Komputer dan Jaring
 ![Bahasa Yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmanrinata08-dotcom&layout=compact&theme=radical&cache_seconds=1800)
 
 
-![Bahasa Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmanrinata08-dotcom&layout=compact&theme=radical&langs_count=10&cache_seconds=1800)
+---
+
+### 📊 Statistik GitHub Saya:
+
+![Statistik Utama](https://github-readme-stats.vercel.app/api?username=ilmanrinata08-dotcom&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800)
+
+![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmanrinata08-dotcom&layout=compact&theme=radical&hide_border=false&cache_seconds=1800)
+
+---
+
 
 
 ### 📂 Lihat Koleksi Kodingan Saya:
