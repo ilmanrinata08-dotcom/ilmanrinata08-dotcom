@@ -7,7 +7,7 @@ Halo! Saya **C'oodiee**, siswa kelas 12 SMK jurusan **Teknik Komputer dan Jaring
 
 - 🔭 **I’m currently working on:** Belajar Jaringan & Python
 - 🌱 **I’m currently learning:** Cisco Configuration & Web Development
-- 💬 **Ask me about:** Subnetting or Mobile Legends
+* 💬 **Ask me about**: Subnetting, Routing, or Linux
 - ⚡ **Fun fact:** I love coding in Termux!
 
 ### 🛠 Tools & Technologies:
