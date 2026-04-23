@@ -1,6 +1,7 @@
 # 🚀 My Python & Networking Journey
+![Banner Utama](https://kct-herobanner.vercel.app/api/staticbanner?title=ILMAN%20NETWORKING&subtitle=Siswa%20TKJ%20Grade%2012%20-%20Termux%20User&theme=dark)
 
-![Banner Utama](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Ilman%20TKJ%20Networking&fontSize=50)
+
 
 
 ### 👨‍💻 About Me:
